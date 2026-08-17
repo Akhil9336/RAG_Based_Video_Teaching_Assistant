@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Video files
+videos/
+
+# Audio files
+audios/
+
+# Transcripts
+transcripts/
+
+# Whisper model
+whisper/
+
+# Generated embedding/database files
+*.pkl
+
+# Generated JSON files
+video_chunks.json
+mp3_chunks.json
+
+# Temporary files
+tempCodeRunnerFile.py
+
+# Environment/secrets
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
